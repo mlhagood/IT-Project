@@ -23,7 +23,7 @@ Windows:
 edit autoexec.bat
 ```
 
-## genuphbia = fear of knees
+## genuphobia = fear of knees
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
