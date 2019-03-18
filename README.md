@@ -9,7 +9,7 @@ One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
-## Installation hi meester
+## Installation
 
 OS X & Linux:
 
@@ -23,9 +23,9 @@ Windows:
 edit autoexec.bat
 ```
 
-## Usage example
+## genuphbia = fear of knees
 
-Genuphobia  = fear of knees
+A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
