@@ -308,6 +308,10 @@ input:-webkit-autofill:focus {
     color: #ffffff;
 }
 
+.mainmenu-area a:hover {
+  color: #697073;
+}
+
 .mainmenu-area .logo {
     text-transform: uppercase;
     letter-spacing: 2px;
