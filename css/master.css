@@ -29,7 +29,7 @@ table tr:nth-of-type(2){
 
 .fullBorder {
 border: solid 1px black;
-} 
+}
 
 .topBottomBorder{
   border-top: solid 1px black;
@@ -39,4 +39,8 @@ border: solid 1px black;
 .leftRightBorder{
   border-left: solid 1px black;
   border-right: solid 1px black;
+}
+
+.contact-links a:hover {
+  color: #697073;
 }
