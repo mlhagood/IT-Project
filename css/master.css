@@ -27,6 +27,10 @@ table tr:nth-of-type(2){
   background-color: lightgreen;
 }
 
+#clubs-page li {
+  font: black;
+}
+
 .fullBorder {
 border: solid 1px black;
 }
