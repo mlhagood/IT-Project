@@ -1,78 +1,68 @@
-# Product Name
+# AET-IT Track Website Readme
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
-## Installation
 
-OS X & Linux:
+## Commits
 
-```sh
-npm install my-crazy-module --save
-```
+* 3/20/19
+    * Add template to repository
+      * Include the old index.html file
+      * Template looked professional and fit the needs of the website
 
-Windows:
+* 3/21/2019
+    * Update logo.png to a transparent image
+      * The white background distracted from the header and did not fit the theme
+    * Adjust the header to fit the theme
+      * Background of nav color set to lighter blue for scrolling - old color clashed with logo
+      * Font colors set to gray to fit new background color
+      * Logo background transparent
+      * Nav bar options adjusted from template options to our wireframe
+    * Add information to the first section
+      * Add AET-IT description
+      * Add read more button with link to ACL website
+    * Set nav text color to white and removed link from logo
+      * Font colors set to white
+      * Font color changes to gray when hovered
+    * Delete scrolling phones in the header area
+      * No use for it and blocks background image
+    * Remove unnecessary screen-box from the webpage
+      * No information fit in it
+    * Update div ids to match nav bar
+      * Make strip headers match nav bar - chose formats that would match our sections
+      * Update div ids so that anchors in the nav bar work
+    * Rename divs
+      * Adjust the nav bar to reflect the changes in the div
+      * Made the code more concise and easier to modify
 
-```sh
-edit autoexec.bat
-```
+  Update contact information
+  Address of ACL
+  Main office phone + line break (to maintain spacing)
+  Emails of Mr. Chapin and Mr. Randall
+  Encouraging contact message
 
-## genuphobia = fear of knees
+  Add the table for IT-track courses
+  -The information was necessary for the website
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+  Remove redundant text in index.html
+  -Duplicate of price-area section after conflict
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
+  Make outline for table classes
+  -Make the color different for the header and body
+  -Center header text
+  -Set up table for later modifications
 
-## Development setup
+  Update the teacher names in index.html
+  -Add the names of the teachers
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+  Add one-sentence descriptions for each section
+  Makes section purposes clearer for users
 
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.1.1 3-18-2019
-    * Navbar, jumbotron
-      * ADD: signup buttons in Navbar
-      * CHANGE:  Background Photo in jumbotron
-      * CHANGE: Color Scheme to match customer requirements (blue/teal)
-
-
-* 0.2.1 3-20-2019
-    * Made changes based on CSR #1
-      *  ADD: Logo in left hand corner
-      *  CHANGE: Text under signup buttons
-
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+  Move clubs section below teachers
+  More logical order
+  Fix nav bar order
