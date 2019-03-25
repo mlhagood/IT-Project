@@ -39,30 +39,8 @@
     * Rename divs
       * Adjust the nav bar to reflect the changes in the div
       * Made the code more concise and easier to modify
-
-  Update contact information
-  Address of ACL
-  Main office phone + line break (to maintain spacing)
-  Emails of Mr. Chapin and Mr. Randall
-  Encouraging contact message
-
-  Add the table for IT-track courses
-  -The information was necessary for the website
-
-  Remove redundant text in index.html
-  -Duplicate of price-area section after conflict
-
-  Make outline for table classes
-  -Make the color different for the header and body
-  -Center header text
-  -Set up table for later modifications
-
-  Update the teacher names in index.html
-  -Add the names of the teachers
-
-  Add one-sentence descriptions for each section
-  Makes section purposes clearer for users
-
-  Move clubs section below teachers
-  More logical order
-  Fix nav bar order
+    * Update contact information
+      * Address of ACL
+      * Main office phone + line break (to maintain spacing)
+      * Emails of Mr. Chapin and Mr. Randall
+      *Encouraging contact message
