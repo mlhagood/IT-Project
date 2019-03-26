@@ -172,11 +172,12 @@
   * Add to current status (Mia)
   * Remove shapes in contact page (Bilal)
     * Make website more professional
-  * Fix github directories (Bilal)
-    * Fix issue with image
 
 * 3/26/2019
-  * Add Mrs. Wissler's email and update  (Mia)
+  * Add Mrs. Wissler's email and update readme (Mia)
+    * Make it possible to email Mrs. Wissler directly in contact section
+  * Fix github directories (Bilal)
+    * Fix issue with image
 ## Current Status
 
 * Contact form needs to save information
