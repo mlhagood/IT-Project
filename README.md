@@ -169,7 +169,7 @@
     * Make site responsive
   * Add Github.io link to readme (Mia)
   * Add customer requests and current status to readme (Mia)
-  * Add current status (Mia)
+  * Add to current status (Mia)
 
 ## Current Status
 
