@@ -172,7 +172,7 @@
   * Add to current status (Mia)
   * Remove shapes in contact page (Bilal)
     * Make website more professional
-  * Fix github directories
+  * Fix github directories (Bilal)
     * Fix issue with image
 ## Current Status
 
