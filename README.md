@@ -174,6 +174,9 @@
     * Make website more professional
   * Fix github directories (Bilal)
     * Fix issue with image
+
+* 3/26/2019
+  * Add Mrs. Wissler's email
 ## Current Status
 
 * Contact form needs to save information
