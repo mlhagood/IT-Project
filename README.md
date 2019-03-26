@@ -2,6 +2,15 @@
 
 [GitHub.io link](https://mlhagood.github.io/IT-Project/)
 
+## Customer Requests
+
+* Provide information about the IT pathway
+* Promote opportunities
+* Promote the Programming Clubs
+* Solicit feedback and ideas from the community
+* Provide links to the Academies of Loudoun homepage
+* Avoid providing information about the AET application process
+
 ## Commits
 
 * 3/20/2019
@@ -158,3 +167,14 @@
     * Make template more professional
   * Fix background when the window is half-screen width (Bilal)
     * Make site responsive
+  * Add Github.io link to readme (Mia)
+  * Add customer requests and current status to readme (Mia)
+
+## Current Status
+
+* Contact form needs to save Information
+  * Use PHP
+  * About 1-2 days
+* The news feed could get tweets from the ACL Twitter
+  * Use web scraping
+  * About 3-4 days
