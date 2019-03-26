@@ -176,7 +176,7 @@
     * Fix issue with image
 
 * 3/26/2019
-  * Add Mrs. Wissler's email
+  * Add Mrs. Wissler's email and update  (Mia)
 ## Current Status
 
 * Contact form needs to save information
