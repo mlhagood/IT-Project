@@ -148,3 +148,11 @@
     * Add a link to the logo
   * Fix background when the window is half-screened (Bilal)
     * Make site responsive
+
+* 3/25/2019
+  * Update readme file (Mia)
+    * Record commits and contributions during the project
+  * Fix broken English from the template (Bilal)
+    * Make template more professional
+  * Fix background when the window is half-screen width (Bilal)
+    * Make site responsive
