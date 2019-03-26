@@ -118,9 +118,9 @@
   * Fix background section colors
     * Alternate between sky and gray colors to fit formats
   * Change the courses background
-    * Adjust to fit the color pallete of index.html
+    * Adjust to fit the color palette of index.html
     * Move the teacher section above the Course Section
-    * Adjust Navbar accordingly
+    * Adjust navbar accordingly
   * Fix color of indicator in club section
     * Change from white to match font color below it to make it visible
   * Add a header to the events section
@@ -138,3 +138,21 @@
   * Fix grammatical
     * Add a period, change “AET IT” to “the ACL”
     * Makes site more professional
+
+* 3/24/2019
+  * Set background cover picture
+    * Add picture
+    * Set nav bar height
+  * Update authorship info
+    * Update metadata with author names/content
+    * Adjust copyright message and Colorlib font color to make it visible
+  * Resize cyberpatriot image
+    * Needs to match the other two event image heights
+  * Delete extra white space above teacher pictures
+    * Change padding-top because the white space was out of place
+  * Add links to the ACL homepage
+    * Due to request by the client
+    * Add a link to a button
+    * Add a link to the logo
+  * Fix background when the window is half-screened
+  * Make site responsive
