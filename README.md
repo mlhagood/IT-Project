@@ -170,7 +170,8 @@
   * Add Github.io link to readme (Mia)
   * Add customer requests and current status to readme (Mia)
   * Add to current status (Mia)
-
+  * Remove shapes in contact page (Bilal)
+    * Make website more professional
 ## Current Status
 
 * Contact form needs to save information
