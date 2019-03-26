@@ -65,4 +65,76 @@
     * Remove duplicate section
     * first table row background color set to light green
     * Make all font black and bold
-    * Center courses 
+    * Center courses header
+  * Center teacher cards
+    * Re-center cards because we deleted an extra one
+  * Update teachers section content
+    * Add names
+    * Add social media links and delete irrelevant icons
+    * List classes each teacher teaches
+    * Resize images and insert them into the cards
+    * Correct spacing of teacher classes
+  * Fix emails in contact us section
+    * Add Mr. Poland’s email
+    * Add email links
+  * Change formatting of table section
+    * Remove the outside border
+    * Change the background image to a gradient color
+    * Make overlay transparent
+    * Make text more readable
+  * Underline all contact us links
+    * Indicates clickability
+    * Color changes when user hovers
+
+* 3/23/2019
+  * Add Mrs. Wissler to teachers section
+    * Re-center cards
+    * No social media links found for her
+  * Update the club information section
+    * Put the club names and description
+    * Update the club section nav bar
+    * Change the “read more” buttons to “learn more”, then add the teacher sponsors’ emails
+  * Fix the formatting issue in the clubs section
+    * Replace club information with lorem ipsum text
+    * There wasn’t enough information present for the navigation in the clubs section to function properly
+  * Swap news and events page formats and add event
+    * Swapping formats was more logical
+    * Moved news to below events section
+    * Add Codequest and Hackathon information
+  * Fix the formatting issue in the club section 3
+    * Remove duplicate code for the club section after a conflict
+  * Add images to events pages
+    * Adds style and color to page
+  * Fix the nav bar
+    * Reorder the nav bar tabs to reflect the new order of the page
+    * Remove unnecessary footer in index.html
+  * Add CyberPatriots event info
+    * Description informs users
+  * Remove the sponsors section
+    * Remove the sponsors tab in the nav bar
+    * Redundant
+  * Edit contact prompt
+    * Make contact reasons more clear (information, feedback, suggestions)
+  * Fix background section colors
+    * Alternate between sky and gray colors to fit formats
+  * Change the courses background
+    * Adjust to fit the color pallete of index.html
+    * Move the teacher section above the Course Section
+    * Adjust Navbar accordingly
+  * Fix color of indicator in club section
+    * Change from white to match font color below it to make it visible
+  * Add a header to the events section
+    * The section now follows the trend of having h2 text at the top
+  * Delete commented code
+    * Redundant
+  * Add 5th FAQ
+    * Make volunteer info more clear
+  * Update the news feed with news from the ACL twitter
+    * Add real world information
+  * Make nav options bold
+    * Normal font weight made gray color look too light
+  * Add description of hackathon
+    * Description informs users
+  * Fix grammatical
+    * Add a period, change “AET IT” to “the ACL”
+    * Makes site more professional
