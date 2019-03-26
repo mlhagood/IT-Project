@@ -138,7 +138,7 @@
     * Normal font weight made gray color look too light
   * Add description of hackathon (Mia)
     * Description informs users
-  * Fix grammatical (Bilal)
+  * Fix grammatical error (Bilal)
     * Add a period, change “AET IT” to “the ACL”
     * Makes site more professional
 
@@ -170,7 +170,10 @@
   * Add Github.io link to readme (Mia)
   * Add customer requests and current status to readme (Mia)
   * Add to current status (Mia)
-
+  * Remove shapes in contact page (Bilal)
+    * Make website more professional
+  * Fix github directories (Bilal)
+    * Fix issue with image
 ## Current Status
 
 * Contact form needs to save information
