@@ -138,7 +138,7 @@
     * Normal font weight made gray color look too light
   * Add description of hackathon (Mia)
     * Description informs users
-  * Fix grammatical Error (Bilal)
+  * Fix grammatical error (Bilal)
     * Add a period, change “AET IT” to “the ACL”
     * Makes site more professional
 
