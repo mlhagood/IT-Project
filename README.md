@@ -172,9 +172,12 @@
 
 ## Current Status
 
-* Contact form needs to save Information
+* Contact form needs to save information
   * Use PHP
   * About 1-2 days
 * The news feed could get tweets from the ACL Twitter
   * Use web scraping
   * About 3-4 days
+* Obtain higher quality pictures of teachers
+  * Take pictures of teachers at school directly
+  * 2-3 days depending on when we see them
