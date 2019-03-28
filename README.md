@@ -1,15 +1,22 @@
-# AET-IT Track Website Readme
+# Group Members
+* Bilal Zahory
+* Mia Hagood
+
+# Github.io link
 
 [GitHub.io link](https://mlhagood.github.io/IT-Project/)
 
-## Customer Requests
+## Current Status
 
-* Provide information about the IT pathway
-* Promote opportunities
-* Promote the Programming Clubs
-* Solicit feedback and ideas from the community
-* Provide links to the Academies of Loudoun homepage
-* Avoid providing information about the AET application process
+* Contact form needs to save information
+  * Use PHP
+  * About 1-2 days
+* The news feed could get tweets from the ACL Twitter
+  * Use web scraping
+  * About 3-4 days
+* Obtain higher quality pictures of teachers
+  * Take pictures of teachers at school directly
+  * 2-3 days depending on when we see them
 
 ## Commits
 
@@ -172,16 +179,18 @@
   * Add to current status (Mia)
   * Remove shapes in contact page (Bilal)
     * Make website more professional
+
+* 3/26/2019
+  * Add Mrs. Wissler's email and update readme (Mia)
+    * Make it possible to email Mrs. Wissler directly in contact section
   * Fix github directories (Bilal)
     * Fix issue with image
-## Current Status
+    
+## Customer Requests
 
-* Contact form needs to save information
-  * Use PHP
-  * About 1-2 days
-* The news feed could get tweets from the ACL Twitter
-  * Use web scraping
-  * About 3-4 days
-* Obtain higher quality pictures of teachers
-  * Take pictures of teachers at school directly
-  * 2-3 days depending on when we see them
+* Provide information about the IT pathway
+* Promote opportunities
+* Promote the Programming Clubs
+* Solicit feedback and ideas from the community
+* Provide links to the Academies of Loudoun homepage
+* Avoid providing information about the AET application process
