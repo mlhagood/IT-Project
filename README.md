@@ -186,6 +186,14 @@
   * Fix github directories (Bilal)
     * Fix issue with image
     
+* 3/31/2019
+  * Fix github pages site (Bilal)
+    * The page on github had styling errors that did not appear in atom live server
+    * Remove shapes in footer
+    * Fix file paths
+    * Rename price-area to courses-area
+    * Change course section background to sky-bg, remove overlay
+    
 ## Customer Requests
 
 * Provide information about the IT pathway
