@@ -105,7 +105,7 @@
 
     //Background Parallax
     $('.header-area').parallax("50%", -0.4);
-    $('.price-area').parallax("50%", -0.5);
+    $('.course-area').parallax("50%", -0.5);
     $('.testimonial-area').parallax("10%", -0.2);
 
 

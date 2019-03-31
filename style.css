@@ -641,13 +641,21 @@ input:-webkit-autofill:focus {
 
 
 /***
-*Price-area
+*course-area
 ***/
 
-.price-area {
-    background: url('../Courses-Background.png') no-repeat scroll center center / cover
+.course-area {
+    //background: #75cbe7;
+    //background: -webkit-gradient(linear, left top, left bottom, from(#75cbe7), to(#138fc2));
+    //background: linear-gradient(to bottom, #75cbe7 0%, #138fc2 100%);
+    //filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75cbe7', endColorstr='#138fc2', GradientType=0);
+    background-image:  url("Courses-Background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    color:white;
 }
-
 .price-table h3 {
     margin-bottom: 30px;
 }
