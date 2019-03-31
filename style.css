@@ -860,7 +860,7 @@ input:-webkit-autofill:focus {
 }
 
 .form-double input {
-    width: calc(50% - 10px);
+    width: calc(100%);
     float: left;
 }
 
