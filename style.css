@@ -461,7 +461,7 @@ input:-webkit-autofill:focus {
 .caption-slider .carousel-indicators li {
     float: left;
     padding-top: 20px;
-    padding-right: 30px;
+    padding-right: 1.5em;//adjust if clubs are added
     cursor: pointer;
     position: relative;
     list-style: none;
