@@ -202,10 +202,12 @@
     * Improve contrast between background and foreground colors
     * Nav bar font colors change when user scrolls
   * Add alt attributes to images (Mia)
-    * Helps impaired users and displays when image cannot be loaded
-    * Provides a description for search engine crawlers indexing the image
+    * Help impaired users and displays when image cannot be loaded
+    * Provide a description for search engine crawlers indexing the image
   * Add labels in the contact form (Mia)
     * Describe the purpose of each input field to users
+  * Create a meta description (Mia)
+    * Provide a summary of the page's content for search results online
 
 
 ## Customer Requests
