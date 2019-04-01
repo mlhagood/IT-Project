@@ -553,12 +553,15 @@ Anya Ambarish won a 3rd place trophy in the Prepared Preparation Speech event & 
               </div>
             </address>
           </div>
-          <div class="col-xs-12 col-md-8">
+          <div class="col-xs-12 col-md-8 contact_form">
 
             <form onsubmit="body.value = message.value +'\r\n\r\n-'+ name.value" action="mailto:you@yourdomain.com?subject=subject&body=body" enctype="text/plain" class="contact-form" data-rel="external">
-              <input type="text" name="name" placeholder="Your name"class="form-control" required="required">
-              <input type="text" name="subject" class="form-control" placeholder="Message topic">
-              <textarea name="message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea>
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" class="form-control" required="required">
+              <label for="subject">Subject:</label>
+              <input type="text" id="subject" name="subject" class="form-control">
+              <label for="message">Your message:</label>
+              <textarea id="message" name="message" rows="5" class="form-control" required="required"></textarea>
               <input type="hidden" name="body">
               <button type="submit" class="button">Submit</button>
             </form>
