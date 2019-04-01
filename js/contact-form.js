@@ -33,7 +33,7 @@ Ajax Contact Form
             type : 'POST',
             url  : 'mailto:someone@example.com',
             data : formData,
-            dataType : 'json',
+            dataType : 'text/plain',
             encode : true
         }).done(function (data) {
             // handle errors
