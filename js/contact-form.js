@@ -44,11 +44,6 @@ Ajax Contact Form
                     $('#name-field').find('.col-lg-10').append('<span class="help-block">' + data.errors.name + '</span>');
                 }
 
-                if (data.errors.email) {
-                    $('#email-field').addClass('has-error');
-                    $('#email-field').find('.col-lg-10').append('<span class="help-block">' + data.errors.email + '</span>');
-                }
-
                 if (data.errors.subject) {
                     $('#subject-field').addClass('has-error');
                     $('#subject-field').find('.col-lg-10').append('<span class="help-block">' + data.errors.subject + '</span>');
