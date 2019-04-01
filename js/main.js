@@ -196,7 +196,6 @@
 
 
 
-
     /* Preloader Js
     ===================*/
     $(window).on("load", function () {
