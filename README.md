@@ -185,7 +185,7 @@
     * Make it possible to email Mrs. Wissler directly in contact section
   * Fix github directories (Bilal)
     * Fix issue with image
-    
+
 * 3/31/2019
   * Fix github pages site (Bilal)
     * The page on github had styling errors that did not appear in Atom Live Server
@@ -196,6 +196,20 @@
   * Adjust padding for carousel items in clubs section (Bilal)
     * Fix white space on right side (mobile)
     * Better fits responsive design
+
+* 4/1/2019
+  * Optimize navbar colors (Mia)
+    * Improve contrast between background and foreground colors
+    * Nav bar font colors change when user scrolls
+  * Add alt attributes to images (Mia)
+    * Help impaired users and displays when image cannot be loaded
+    * Provide a description for search engine crawlers indexing the image
+  * Add labels in the contact form (Mia)
+    * Describe the purpose of each input field to users
+  * Create a meta description (Mia)
+    * Provide a summary of the page's content for search results online
+
+
 ## Customer Requests
 
 * Provide information about the IT pathway
