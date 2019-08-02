@@ -812,6 +812,10 @@ input:-webkit-autofill:focus {
     margin-right: 5px;
 }
 
+.fix-size{
+  max-height: 100px; //adjust as needed, iffy code
+}
+
 .single-blog .blog-content {
     padding: 30px 20px;
     background-color: #ffffff
