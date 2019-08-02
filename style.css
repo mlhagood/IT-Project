@@ -819,8 +819,8 @@ input:-webkit-autofill:focus {
 .single-blog .blog-content {
     padding: 30px 20px;
     background-color: #ffffff;
-    min-height: 300px;
-    max-height: 300px;
+    min-height: 400px;
+    max-height: 400px;
 }
 
 
